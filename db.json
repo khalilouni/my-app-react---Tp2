@@ -1,0 +1,25 @@
+{
+  "produits": [
+    {
+      "id":1,
+      "nom": "JustDay Mens Shorts Casual Running",
+      "description": "70% Cotton, 25% Polyester, 5% Elastane",
+      "prix": 64.95,
+      "categorie": "clothing"
+    },
+    {
+      "id":2,
+      "nom": "Samsung 34 Odyssey G5 Gaming",
+      "description": "WQHD RESOLUTION: The ultrawide WQHD monitor displays more onscreen content with a seamless dual monitor experience with a 1000R curvature to create a human field of view that gives eye comfort while gaming for long periods of time.",
+      "prix":692.62,
+      "categorie": "Monitors"
+    },
+    {
+      "id":3,
+      "nom": "Oral-B Power iO Series 9 Electric Toothbrush, Black Onyx, iO9",
+      "description": "You will receive 1 Oral-B iO Series 9 Black Onyx Electric Toothbrush, 4 Oral-B iO Ultimate Clean Replacement Brush Heads, and a Power2Go charging travel case",
+      "prix":299.97,
+      "categorie": "Oral Care"
+    }
+  ]
+}
